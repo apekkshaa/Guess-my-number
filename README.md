@@ -20,7 +20,7 @@ Let's try 18, now it's too high. So we get a different message.
 when you get the number correct this "Correct number!" message is displayed and screen turns green
 and also we now have the Highscore here of 17.
 
-![correct]()
+![correct](https://github.com/apekkshaa/Guess-my-number/blob/main/images/correctanswer.png)
 
 Highscore is another feature of this small application, if you're quicker in the next round,
 your Highscore will then become better.<br>
