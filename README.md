@@ -8,7 +8,7 @@ Upon entering the number you are given a hint whether we are close to the number
 Let's say 10, then we click Check!<br>
 And then on the right side we get a message. In this case it says, that our guess was Too Low!
 
-![toohigh]()
+![toohigh](https://github.com/apekkshaa/Guess-my-number/blob/main/images/toohigh.png)
 
 Also we can see that we started with a Score of 20 and now after one failed guess it decreased to 19.
 So basically after each guess that we fail, the score decreases by one.
