@@ -15,7 +15,7 @@ So basically after each guess that we fail, the score decreases by one.
 
 Let's try 18, now it's too high. So we get a different message.
 
-![toolow]()
+![toolow](https://github.com/apekkshaa/Guess-my-number/blob/main/images/toolow.png)
 
 when you get the number correct this "Correct number!" message is displayed and screen turns green
 and also we now have the Highscore here of 17.
