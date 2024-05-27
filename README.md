@@ -3,7 +3,7 @@
 The goal of this project is to simply guess a number which is between 1 and 20. <br>
 Upon entering the number you are given a hint whether you are close to the number or not.
 
-![webpage](https://github.com/apekkshaa/Guess-my-number/blob/main/images/webpage.png)
+![webpage](webpage.png)
 
 Let's say 15, then you click Check!<br>
 And then on the right side you get a message. In this case it says, that your guess was Too high!
