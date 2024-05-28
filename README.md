@@ -1,9 +1,24 @@
-# Guess-my-number
+# **Guess-my-number**
 
-The goal of this project is to simply guess a number which is between 1 and 20. <br>
-Upon entering the number you are given a hint whether you are close to the number or not.
+A simple and fun guessing game built with HTML, CSS, and JavaScript. In this game, the player tries to guess a secret number between 1 and 20. The game provides feedback on whether the guess is too high or too low, and keeps track of the player's score and highscore.
 
 ![webpage](webpage.png)
+
+## **FEATURES**
+- Randomly generated number between 1 and 20.
+- User input for guessing the number
+- Dynamic feedback messages
+- Score tracking and highscore recording
+- Option to restart the game at any time with the "Again!" button.
+
+
+## **TECH-STACK**
+- HTML
+- CSS
+- JavaScript
+
+
+## **HOW TO PLAY**
 
 Let's say 15, then you click Check!<br>
 And then on the right side you get a message. In this case it says, that your guess was Too high!
@@ -26,3 +41,5 @@ Highscore is another feature of this small application, if you're quicker in the
 your Highscore will then become better.<br>
 
 If you want to play again, you can simply click the Again! button and it all resets everything except for the Highscore.
+
+
